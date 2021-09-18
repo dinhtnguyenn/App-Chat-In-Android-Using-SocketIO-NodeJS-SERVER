@@ -1,0 +1,11 @@
+{
+    "name": "server",
+    "version": "0.0.1",
+    "private": "true",
+    "dependencies": {
+        "express": "*",
+        "mysql": "^2.18.1",
+        "socket.io": "*",
+        "socketio-file-upload": "^0.7.3"
+    }
+}
